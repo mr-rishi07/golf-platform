@@ -1,3 +1,5 @@
+//Correct the name of user to User
+
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
